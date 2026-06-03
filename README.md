@@ -89,4 +89,4 @@ Built with modern Minecraft in mind! Zero legacy IDs used.
 **Performance:** 100% lag-free. Uses low-impact metadata tracking.  
 
 
-*(Loved this Free version? Upgrade your server with 10-Level Perks, Weekly Economy Events, Global Buffs, and a Personal Progression Shop by purchasing the **Ultimate Clan System Premium** today!)*
+*(Loved this Free version? Upgrade your server with 10-Level Perks, Weekly Economy Events, Global Buffs, and a Personal Progression Shop by purchasing the **Advanced Clan System Premium** today!)*
