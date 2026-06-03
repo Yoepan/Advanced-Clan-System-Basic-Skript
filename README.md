@@ -1,6 +1,6 @@
 # Advanced-Clan-System-Basic-Skript  
 
-[gambar]  
+<img width="1024" height="512" alt="Proyek_Baru_112_Copy_12A520D" src="https://github.com/user-attachments/assets/e1ac5ace-a0e1-4d04-a452-00f154656cd1" />
 
 The Basic Clan System is a lightweight, lag-free, and highly interactive social Team/Guild plugin for your survival server. Featuring a 100% GUI-driven experience, Shared Clan Vaults, Tag Color Customization, and a robust Base system, it has everything your players need to team up and conquer the world together!  
 
@@ -14,7 +14,8 @@ Clans don't just exist; they need an identity! In the Clan Settings, Leaders and
 5 Built-in Colors: Gray (Default), Green, Blue, Yellow, and Red.   
 Tags automatically prefix the player's name in chat seamlessly—no complex chat plugin configuration required!  
 
-[gambar]  
+<img width="800" height="450" alt="2026-06-0319-28-21-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/fce9b9dc-3fdc-4935-af71-3281f88da98c" />
+
 
 ### 📦 The Clan Vault (Shared Storage)   
 A powerful Shared Ender Chest for every clan!  
@@ -22,21 +23,26 @@ A powerful Shared Ender Chest for every clan!
 Perfect for pooling resources, sharing extra gear, or safely storing war loot.  
 Admins have full oversight! Use `/clanadmin vault <clan>` to secretly view a clan's vault, or `/clanadmin setvault <clan>` to edit/confiscate items.    
 
-[gambar]  
+<img width="800" height="450" alt="2026-06-0319-47-09-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/c5d754c6-c681-43fd-9358-879ef5564c71" />
+
 
 ### 🏠 Clan Home (Base) System  
-/clan sethome : Leaders and Co-Leaders can set a custom teleportation point for their clan base.  
-/clan home : Members can teleport to their Clan Base.  
+`/clan sethome` : Leaders and Co-Leaders can set a custom teleportation point for their clan base.  
+`/clan home` : Members can teleport to their Clan Base.  
 **Integrated anti-abuse mechanics:** Includes a 5-second "do not move" warmup delay and a 1-minute cooldown to  
 prevent teleport spamming during PvP or combat.  
 **Smart notification:** The whole clan is instantly notified via broadcast when the Leader updates the base location.  
 
-[gambar]  
+<img width="800" height="450" alt="2026-06-0319-47-09-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/7b39b8c7-5f5e-4344-af05-f31f25b514fd" />
+
 
 ### ⚙️ 100% Interactive GUI Management  
 Say goodbye to remembering complex chat commands!  
 **Players:** Can change Clan Tags, Descriptions, Rules, and view member lists directly via a beautiful, symmetrical interactive GUI.  
 **Moderation:** Leaders can Manage, Promote, Demote, or Kick members using a dedicated "Manage Player" GUI.  
+
+<img width="800" height="450" alt="2026-06-0319-39-21-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/095da526-83cc-48b7-b071-07131dc0759e" />
+
   
 ### ✨ Quality of Life & Immersion (The Small Details)  
 **⚔️ Togglable Friendly Fire (PvP):** Leaders can turn Clan PvP ON or OFF in the Settings GUI. If OFF, members cannot accidentally damage each other in combat!  
@@ -57,10 +63,13 @@ Say goodbye to remembering complex chat commands!
 `/clan create <name>` - Start your clan.  
 `/clan info` - View descriptions, rules, friendly fire status, and creation date.  
 `/clan members` - Manage ranks and view the members list.  
- `/clan setting` - Change Tags, Colors, Rules, and Friendly Fire.  
+`/clan setting` - Change Tags, Colors, Rules, and Friendly Fire.  
 `/clan broadcast <msg>` - Send a massive Title/Subtitle alert to all members.  
 `/cc [msg]` - Toggle or send a Private Clan Chat.  
- `/clan invite/accept/deny/leave/kick/promote/demote/transfer` - Social Management.  
+`/clan invite/accept/deny/leave/kick/promote/demote/transfer` - Social Management.  
+`/clan sethome` - Leader/co can set teleport to Clan Base.  
+`/clan home` - Clan members can teleport to Clan Base.
+  
 
 **🔸 Admin Commands (Permission: clan.admin)**  
 `/clanadmin spy <clan>` - Secretly view a clan's details and the ranks of every member inside it!  
@@ -69,6 +78,7 @@ Say goodbye to remembering complex chat commands!
 `/clanadmin forcejoin <player> <clan>` - Force a player into a specific clan without needing an invite.  
 `/clanadmin forcekick <player>` - Forcibly remove a disruptive player from their clan (bypassing leader permissions).  
 `/clanadmin disband <clan>` - Instantly and completely wipe a clan from the server, deleting their Vault and resetting data.  
+`/clanadmin vault <clan>` - To help Admin see the vault of clans
  
 ### 💻 Requirements & Compatibility  
 Built with modern Minecraft in mind! Zero legacy IDs used.  
