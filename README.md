@@ -6,7 +6,7 @@ The Basic Clan System is a lightweight, lag-free, and highly interactive social 
 
 
 **⭐ WANT MORE?**  
-*This is the Free "Social-Only" version. If you want Clan Leveling (1-10), Passive Perks, Weekly Events, Custom Global Buffs, and a Personal Point Shop, check out the **[Ultimate Clan System Premium]**!*  
+*This is the Free "Social-Only" version. If you want Clan Leveling (1-10), Passive Perks, Weekly Events, Custom Global Buffs, and a Personal Point Shop, check out the **[Advanced Clan System Premium]**!*  
 
 
 ### 🎨 Custom Clan Tag Colors   
