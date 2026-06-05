@@ -19,11 +19,12 @@ Tags automatically prefix the player's name in chat seamlessly—no complex chat
 
 ### 📦 The Clan Vault (Shared Storage)   
 A powerful Shared Ender Chest for every clan!  
-54-slot virtual inventory accessible to all members of the same clan.  
+27-slot virtual inventory accessible to all members of the same clan.  
 Perfect for pooling resources, sharing extra gear, or safely storing war loot.  
 Admins have full oversight! Use `/clanadmin vault <clan>` to secretly view a clan's vault, or `/clanadmin setvault <clan>` to edit/confiscate items.    
 
-<img width="800" height="450" alt="2026-06-0319-47-09-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/c5d754c6-c681-43fd-9358-879ef5564c71" />
+<img width="1209" height="508" alt="Screenshot 2026-06-04 141820" src="https://github.com/user-attachments/assets/7bb0f338-4735-4ded-99c2-cb4a3afa8211" />
+
 
 
 ### 🏠 Clan Home (Base) System  
@@ -33,7 +34,8 @@ Admins have full oversight! Use `/clanadmin vault <clan>` to secretly view a cla
 prevent teleport spamming during PvP or combat.  
 **Smart notification:** The whole clan is instantly notified via broadcast when the Leader updates the base location.  
 
-<img width="800" height="450" alt="2026-06-0319-47-09-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/7b39b8c7-5f5e-4344-af05-f31f25b514fd" />
+<img width="800" height="450" alt="2026-06-0319-56-05-ezgif com-video-to-gif-converter_compressed" src="https://github.com/user-attachments/assets/0e30d761-f84c-4172-8812-3e0088e413d4" />
+
 
 
 ### ⚙️ 100% Interactive GUI Management  
